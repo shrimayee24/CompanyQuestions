@@ -14,9 +14,9 @@ public class SecondLargest
 
         for (int i = 0; i < n; i++) 
         {
-			//compare number with largest and second largest
-//if >largest, assign it to largest
-//prev value of largest=secondlargest
+          //compare number with largest and second largest
+          //if >largest, assign it to largest
+          //prev value of largest=secondlargest
             // Update largest and secondLargest accordingly
             if (arr[i] > largest) 
             {
